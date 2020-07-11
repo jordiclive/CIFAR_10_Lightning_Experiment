@@ -1,0 +1,10 @@
+pytorch_lightning
+torch
+torchvision
+tqdm
+sklearn
+tensorboard
+sentencepiece
+pytest
+livelossplot
+tensorflow
